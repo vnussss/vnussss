@@ -151,12 +151,6 @@ class Venus:
 
 ---
 
-## 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=vnussss&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" width="100%"/>
-
----
-
 ## 💭 Random Dev Wisdom
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="100%"/>
