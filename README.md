@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=Venus%20✨&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Venus%20✨&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Data+Scientist+%F0%9F%93%8A+%7C+Python+Developer+%F0%9F%90%8D;Arduino+Enthusiast+%F0%9F%A4%96+%7C+ML+Engineer+%F0%9F%A7%A0;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%92%AB;Building+Smart+Systems+That+Actually+Work+%E2%9A%A1)](https://git.io/typing-svg)
 
