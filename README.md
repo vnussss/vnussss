@@ -1,18 +1,130 @@
-# 💫 About Me:
-Hey! I’m Venus — a tech-driven grad who vibes with Python, Data Analytics, and building smart systems that actually do something, not just sit pretty.<br>I’ve worked on projects like Radar Detection using Arduino, Credit Card Fraud Detection, and Predictive Maintenance, and I love turning raw data into stories, visuals, and decisions.<br><br>Right now I’m leveling up in:<br>• Python (Data + Automation + Backend basics)<br>• Data Science tools (Pandas, NumPy, Matplotlib, Scikit-Learn)<br>• Embedded systems & Arduino<br>• Web dev essentials<br><br>I’m all about clean logic, simple solutions, and learning by breaking things (then fixing them at 2 AM).<br>Constantly constructing and discovering.
+<div align="center">
+  
+# ✨ Hey, I'm Venus ✨
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A277FF&center=true&vCenter=true&random=false&width=800&lines=Data+Scientist+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;Arduino+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%92%AB)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/venoraaa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/venus1591/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:drusti1591@gmail.com) 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vnussss&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vnussss&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vnussss&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
+
+## 🌸 About Me
+
+```typescript
+const venus = {
+    pronouns: "she/her",
+    role: "Tech-Driven Problem Solver",
+    location: "Building cool stuff at 2 AM ☕",
+    currentFocus: ["Data Science", "Machine Learning", "IoT"],
+    
+    techStack: {
+        languages: ["Python", "C/C++", "HTML5"],
+        dataScience: ["Pandas", "NumPy", "Matplotlib", "Scikit-Learn", "Plotly"],
+        databases: ["MySQL"],
+        tools: ["Arduino", "Anaconda", "Jupyter", "Git"],
+        design: ["Canva"]
+    },
+    
+    projects: {
+        ml: "Credit Card Fraud Detection 💳",
+        iot: "Radar Detection System 📡",
+        predictive: "Predictive Maintenance 🔧"
+    },
+    
+    philosophy: "Clean code, simple solutions, learning by breaking things",
+    funFact: "I debug with coffee and vibes ☕✨"
+};
+```
+
+<div align="center">
+
+### 🌈 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venus1591/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/venoraaa_) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drusti1591@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vnussss&icon=4&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+## 💻 Tech Arsenal
+
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Tools & Platforms
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=vnussss&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=61DAFB&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vnussss&theme=radical&hide_border=true&background=0D1117&stroke=A277FF&ring=A277FF&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnussss&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vnussss&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+[![Venus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vnussss&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A277FF&line=61DAFB&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/vnussss/vnussss/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-408b-b01e-0769adb26d7b.gif" width="700">
+
+### 👁️ Profile Views
+![](https://komarev.com/ghpvc/?username=vnussss&style=for-the-badge&color=blueviolet)
+
+**✨ Constantly constructing and discovering ✨**
+
+</div>
