@@ -1,193 +1,227 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=A277FF&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Venus+✨;Data+Scientist+📊;Python+Developer+🐍;IoT+Enthusiast+🤖" />
+</h1>
+
 <div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Venus%20✨&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vnussss&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/vnussss?label=Followers&style=flat-square&color=blueviolet" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-blueviolet?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Lives-India-success?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20C%2B%2B-blueviolet?style=flat-square" alt="Languages" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Data+Scientist+%F0%9F%93%8A+%7C+Python+Developer+%F0%9F%90%8D;Arduino+Enthusiast+%F0%9F%A4%96+%7C+ML+Engineer+%F0%9F%A7%A0;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%92%AB;Building+Smart+Systems+That+Actually+Work+%E2%9A%A1)](https://git.io/typing-svg)
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+## 🎯 About Me
 
----
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🌸 Hey there! I'm Venus
-
-<table>
-<tr>
-<td width="50%">
-
-#### 💫 Quick Intro
-```python
-class Venus:
-    def __init__(self):
-        self.pronouns = "she/her"
-        self.role = "Tech Problem Solver"
-        self.location = "Coding at 2 AM ☕"
-        self.status = "Always Learning 📚"
-        
-    def current_focus(self):
-        return [
-            "Data Science & Analytics",
-            "Machine Learning Models",
-            "IoT & Embedded Systems",
-            "Clean Code Architecture"
-        ]
-    
-    def fun_fact(self):
-        return "I debug with coffee & vibes ☕✨"
+```typescript
+const venus = {
+  pronouns: "she" | "her",
+  location: "Building at 2 AM ☕",
+  currentlyWorking: "Data Science Projects",
+  
+  code: ["Python", "C", "C++", "HTML", "SQL"],
+  
+  technologies: {
+    dataScience: ["Pandas", "NumPy", "Matplotlib", "Plotly"],
+    machineLearning: ["Scikit-Learn", "TensorFlow"],
+    databases: ["MySQL"],
+    tools: ["Jupyter", "Git", "Anaconda", "VS Code"],
+    iot: ["Arduino", "Embedded Systems"]
+  },
+  
+  projects: {
+    ml: "💳 Credit Card Fraud Detection",
+    iot: "📡 Radar Detection System",
+    analytics: "🔧 Predictive Maintenance"
+  },
+  
+  currentFocus: "Building ML models & IoT solutions",
+  funFact: "I debug with coffee and good vibes! ☕✨"
+};
 ```
 
-</td>
-<td width="50%">
+<br/>
 
-#### 🚀 Featured Projects
-🔐 **Credit Card Fraud Detection**  
-*ML-powered fraud prevention system*
+## 🛠️ Tech Stack
 
-📡 **Radar Detection System**  
-*Arduino-based distance monitoring*
-
-🔧 **Predictive Maintenance**  
-*Smart failure prediction analytics*
-
-💡 **Currently Building**  
-*Data pipelines & automation tools*
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌈 Connect With Me
-
-<a href="https://linkedin.com/in/venus1591">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/venoraaa_">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
-</a>
-<a href="mailto:drusti1591@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
-</a>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
----
-
-## 💻 Tech Arsenal
-
-<details open>
-<summary><b>🔧 Click to expand my tech stack</b></summary>
-<br>
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### 🐍 Languages
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-</div>
-</td>
-
-<td valign="top" width="33%">
-
-### 📊 Data Science
 <div align="center">
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+### 👩‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-</div>
-</td>
+### 📊 Data Science & ML
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
 
-<td valign="top" width="33%">
-
-### ⚙️ Tools
-<div align="center">
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-</td>
-</tr>
-</table>
-
-</details>
-
----
-
-## 📊 GitHub Stats That Actually Matter
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vnussss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a277ff&icon_color=61dafb&text_color=c9d1d9&border_radius=10" width="100%"/>
-
-</td>
-<td width="50%">
-
-<img src="https://streak-stats.demolab.com/?user=vnussss&theme=tokyonight&hide_border=true&background=1a1b27&stroke=a277ff&ring=61dafb&fire=61dafb&currStreakLabel=61dafb&border_radius=10" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vnussss&custom_title=Venus's%20Contribution%20Graph&bg_color=1a1b27&color=a277ff&line=61dafb&point=c9d1d9&area_color=61dafb&area=true&hide_border=true&radius=10" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnussss&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a277ff&text_color=c9d1d9&langs_count=8&border_radius=10" width="100%"/>
-
----
-
-## 💭 Random Dev Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="100%"/>
-
----
-
-## 📈 Coding Activity
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vnussss&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a277ff&text_color=c9d1d9&border_radius=10&custom_title=Weekly%20Coding%20Stats" width="100%"/>
-
----
-
-## 🌟 Pinned Projects
-
-<a href="https://github.com/vnussss/credit-card-fraud-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vnussss&repo=credit-card-fraud-detection&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a277ff&icon_color=61dafb&text_color=c9d1d9&border_radius=10" width="49%"/>
-</a>
-<a href="https://github.com/vnussss/radar-detection-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vnussss&repo=radar-detection-system&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a277ff&icon_color=61dafb&text_color=c9d1d9&border_radius=10" width="49%"/>
-</a>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
-### 👀 Profile Views & Visitors
-
-<img src="https://komarev.com/ghpvc/?username=vnussss&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/vnussss?style=for-the-badge&color=blueviolet&labelColor=1a1b27" alt="Followers"/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer"/>
-
-<h3 align="center">✨ Constantly constructing and discovering ✨</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!+Have+an+awesome+day!+%F0%9F%92%9C;Open+to+collaborations+%F0%9F%A4%9D;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Typing SVG" />
+### 🔧 Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 </div>
+
+<br/>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vnussss&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vnussss&theme=radical&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnussss&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vnussss&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</p>
+
+<br/>
+
+## 💼 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">💳 Credit Card Fraud Detection</h3>
+<div align="center">  
+<a href="https://github.com/vnussss" target="_blank"><img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/></a>
+<br><br>
+<p><strong>Machine Learning project detecting fraudulent transactions using Python, Pandas, and Scikit-Learn. Achieved high accuracy with ensemble methods.</strong></p>
+</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Pandas-purple?style=flat-square&logo=pandas"/>
+<img src="https://img.shields.io/badge/ML-orange?style=flat-square&logo=scikit-learn"/>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">📡 Radar Detection System</h3>
+<div align="center">  
+<a href="https://github.com/vnussss" target="_blank"><img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/></a>
+<br><br>
+<p><strong>Arduino-based distance detection system using ultrasonic sensors. Real-time monitoring and alert system implementation.</strong></p>
+</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Arduino-teal?style=flat-square&logo=arduino"/>
+<img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/IoT-green?style=flat-square"/>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">🔧 Predictive Maintenance</h3>
+<div align="center">  
+<a href="https://github.com/vnussss" target="_blank"><img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/></a>
+<br><br>
+<p><strong>Data analytics project predicting equipment failures before they occur. Reduces downtime and maintenance costs significantly.</strong></p>
+</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Analytics-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/ML-orange?style=flat-square"/>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">📊 Data Visualization Hub</h3>
+<div align="center">  
+<a href="https://github.com/vnussss" target="_blank"><img src="https://img.shields.io/badge/View-Repository-blueviolet?style=for-the-badge&logo=github"/></a>
+<br><br>
+<p><strong>Interactive data visualizations using Matplotlib and Plotly. Transforming complex datasets into actionable insights.</strong></p>
+</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Matplotlib-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Plotly-purple?style=flat-square&logo=plotly"/>
+<img src="https://img.shields.io/badge/Analytics-green?style=flat-square"/>
+</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vnussss&bg_color=0d1117&color=a277ff&line=61dafb&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/venus1591" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/venoraaa_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:drusti1591@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/vnussss" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  ### ✨ Show some ❤️ by starring repositories! ✨
+  
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
