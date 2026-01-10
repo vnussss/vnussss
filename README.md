@@ -86,29 +86,6 @@ const venus = {
 
 <br/>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vnussss&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vnussss&theme=radical&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnussss&theme=radical&hide_border=true&layout=compact&langs_count=8" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vnussss&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</p>
-
-<br/>
-
 ## 💼 Featured Projects
 
 <div align="center">
